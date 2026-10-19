@@ -1,0 +1,14 @@
+D:\NotePadClone\NotepadClone\bin\Debug\net10.0-windows\NotepadClone.exe
+D:\NotePadClone\NotepadClone\bin\Debug\net10.0-windows\NotepadClone.deps.json
+D:\NotePadClone\NotepadClone\bin\Debug\net10.0-windows\NotepadClone.runtimeconfig.json
+D:\NotePadClone\NotepadClone\bin\Debug\net10.0-windows\NotepadClone.dll
+D:\NotePadClone\NotepadClone\bin\Debug\net10.0-windows\NotepadClone.pdb
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.AssemblyInfoInputs.cache
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.AssemblyInfo.cs
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.csproj.CoreCompileInputs.cache
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.dll
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\refint\NotepadClone.dll
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.pdb
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.genruntimeconfig.cache
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\ref\NotepadClone.dll
