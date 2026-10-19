@@ -12,3 +12,4 @@ D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\refint\NotepadClone.dll
 D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.pdb
 D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.genruntimeconfig.cache
 D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\ref\NotepadClone.dll
+D:\NotePadClone\NotepadClone\obj\Debug\net10.0-windows\NotepadClone.sourcelink.json
