@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotepadClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02fb5568c1104ca354851d087cde7eab43d61fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a02e297da0f14b2889c14592b0dda2801409a8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotepadClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotepadClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
